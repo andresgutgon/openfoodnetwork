@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+
 require 'open_food_network/address_finder'
 
 class CheckoutController < Spree::StoreController
